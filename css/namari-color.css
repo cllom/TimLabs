@@ -86,7 +86,7 @@ a:hover, #header.nav-solid nav a:hover {
 }
 
 .primary-color, .primary-color .section-title, .primary-color .section-subtitle, .featured .pricing, .featured .pricing p {
-    color:#fff;    
+    color:#000000;    
 }
 
 .section-heading h2:after {
@@ -191,7 +191,7 @@ body {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 16px;
     font-weight:300;
-    color:#9c9c9c;
+    color: #000000;;
 }
 
 /* Testimonial */

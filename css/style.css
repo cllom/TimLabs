@@ -96,7 +96,7 @@ figure {
 
 .page-border > .top-border, .page-border > .right-border, .page-border > .bottom-border, .page-border > .left-border {
     padding: 11px;
-    background: #ccc;
+    background: #000000;
 }
 
 .page-border .bottom-border, .page-border .top-border {
@@ -769,7 +769,7 @@ h6 {
 .section-heading h3 {
     font-size: 20px;
     font-weight: bold;
-    color: #ccc;
+    color: #000000;
     letter-spacing: 2px;
     padding-bottom: 0;
 }
@@ -1485,7 +1485,7 @@ blockquote {
 
 .pricing  p {
     font-style:italic;
-    color:#b4b4b4;
+    color: #000000;;
     line-height:auto;
     margin:0;
 }
